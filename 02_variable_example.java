@@ -1,4 +1,4 @@
-public class 02_variable_example{
+public class variable_example{
     public static void main(String[] args){
         int age = 20;
         double pi = 3.1456;
@@ -20,3 +20,4 @@ public class 02_variable_example{
     }
 
 }
+
