@@ -17,7 +17,7 @@ public class infocard {
         System.out.println("Enter your hobby: ");
         String hobby = sc.nextLine();
 
-         System.out.println("---------info card------------");
+        System.out.println("---------info card------------");
         System.out.println("Name: " + name);
         System.out.println("age: " + age);
         System.out.println("collage: " + collage );
@@ -27,3 +27,4 @@ public class infocard {
         
     }
 }
+
